@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.0;
 
-//importing openzeppelin contract
+//importing openzeppelin contract ERC721
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 
 contract NFTee is ERC721 {
